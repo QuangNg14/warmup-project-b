@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Warmup-teamb-backend.props" />
+</Project>

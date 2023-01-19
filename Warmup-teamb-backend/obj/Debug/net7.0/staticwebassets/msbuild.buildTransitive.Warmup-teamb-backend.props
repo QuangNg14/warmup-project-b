@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/Warmup-teamb-backend.props" />
+</Project>
